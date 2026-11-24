@@ -39,6 +39,11 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Mobile-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
 
+### 🌐 Desarrollo web
+
+![PHP](https://img.shields.io/badge/PHP-8.2%2B-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-13-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
 ---
 
 ### 🗄️ Bases de datos
