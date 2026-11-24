@@ -36,8 +36,10 @@
 
 ### 📱 Desarrollo móvil
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-Mobile-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-Mobile-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP Nativo](https://img.shields.io/badge/PHP_Nativo-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel 13](https://img.shields.io/badge/Laravel-13-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### 🌐 Desarrollo web
 
